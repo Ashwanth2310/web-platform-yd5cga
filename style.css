@@ -1,0 +1,31 @@
+/* importing fonts */
+
+@import url('https://fonts.googleapis.com/css2?family=Borel&family=Cedarville+Cursive&family=Dancing+Script:wght@500;700&family=Mukta&family=Open+Sans:ital,wght@1,300&family=Poppins:ital,wght@0,200;0,400;1,100&family=Roboto+Slab:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Borel&family=Cedarville+Cursive&family=Dancing+Script:wght@400;500;700&family=Mukta&family=Open+Sans:ital,wght@1,300&family=Poppins:ital,wght@0,200;0,400;1,100&family=Roboto+Slab:wght@300&display=swap');
+*{
+  margin:0;
+  padding:0;
+  background-color: rgb(24, 209, 18);
+} 
+/* styling the main heading */
+
+h3{
+  font-family: 'Roboto Slab', serif;
+  margin:15px;
+  color: rgb(8, 79, 0);
+}
+/* styling the sub headings */
+h1
+{
+  text-align: center;
+  font-family: 'Roboto Slab', serif;
+  color:black;
+}
+/* (designing the paragraphs) */
+p
+{
+  font-family: 'Dancing Script', cursive;
+  margin:12px;
+  color:rgb(124, 2, 255);
+  font-size: 1.5em;
+}
