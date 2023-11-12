@@ -5,7 +5,7 @@
 *{
   margin:0;
   padding:0;
-  background-color: rgb(24, 209, 18);
+  background-color: rgb(138, 192, 136);
 } 
 /* styling the main heading */
 
@@ -15,7 +15,7 @@ h3{
   color: rgb(8, 79, 0);
 }
 /* styling the sub headings */
-h1
+#header
 {
   text-align: center;
   font-family: 'Roboto Slab', serif;
@@ -27,5 +27,11 @@ p
   font-family: 'Dancing Script', cursive;
   margin:12px;
   color:rgb(124, 2, 255);
+  font-size: 1.5em;
+}
+.intrests{
+  font-family: 'Dancing Script', cursive;
+  margin:12px;
+  color:rgb(215, 80, 26);
   font-size: 1.5em;
 }
